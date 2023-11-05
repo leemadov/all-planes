@@ -119,7 +119,3 @@ body{
 select {
   min-width: unset;
 }
-
-iframe {
-    width: 100%;
-}
